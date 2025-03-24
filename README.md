@@ -14,4 +14,5 @@ To make the compiler more efficient and scalable, **object-oriented programming 
 
 This **C++ arithmetic expression compiler** is an excellent project for developers interested in **compiler design, programming language processing, and mathematical computation**. It demonstrates practical knowledge of **parsing techniques, data structures (such as trees and stacks), recursion, and algorithmic problem-solving**. Moreover, this project serves as a **foundation for building more advanced compilers and interpreters**, such as those used in programming languages like Python and JavaScript. Understanding **expression parsing and evaluation** is a crucial skill in various fields, including **scientific computing, game development, and artificial intelligence**. By working on this project, developers gain valuable insights into how **high-level programming languages process and execute mathematical expressions**, paving the way for more **complex compiler and interpreter development** in the future.
 
-Output:
+Output:  
+![Image](https://github.com/user-attachments/assets/9cd262a1-b35d-4151-937a-7d2269da1ad4)
